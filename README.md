@@ -388,8 +388,8 @@ Gráficas generadas por el script y su utilidad:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/David-Navarro-Oliver/practica-machine-learning.git
-cd practica-machine-learning
+git clone https://github.com/David-Navarro-Oliver/practica-machine-learning-ciberseguridad.git
+cd practica-machine-learning-ciberseguridad
 ```
 
 ### 2. Instalar dependencias
